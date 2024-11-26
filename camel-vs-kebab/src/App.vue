@@ -44,7 +44,7 @@ export default {
   },
   data() {
     return {
-      currentPage: 'experiment', // Tracks the current page
+      currentPage: 'welcome', // Tracks the current page
       currentQuestionIndex: 0, // Tracks the index of the current question
       responses: [], // Stores user responses
       questionsStartTime:null,
