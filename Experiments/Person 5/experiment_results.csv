@@ -1,0 +1,21 @@
+Question,Format,Selected Answer,Correct,Time Taken (s)
+"move north",kebab-case,"move-north",Yes,3.23
+"jump high",kebab-case,"jump-high",Yes,3.66
+"run fast",kebab-case,"run-fast",Yes,2.08
+"cook dinner",kebab-case,"cook-dinner",Yes,2.25
+"build house",kebab-case,"build-house",Yes,2.75
+"close all windows",kebab-case,"close-all-windows",Yes,2.53
+"send a quick message",kebab-case,"send-a-quick-message",Yes,2.73
+"eat a red apple",kebab-case,"eat-a-red-apple",Yes,3.52
+"scan the printed document",kebab-case,"scan-the-printed-document",Yes,2.25
+"watch a new movie",kebab-case,"watch-a-new-movie",Yes,3.43
+"move north",camel-case,"moveNorth",Yes,2.95
+"jump high",camel-case,"jumpHigh",Yes,2.82
+"run fast",camel-case,"runFast",Yes,2.75
+"cook dinner",camel-case,"cookDinner",Yes,1.73
+"build house",camel-case,"buildHouse",Yes,2.08
+"close all windows",camel-case,"closeAllWindows",Yes,4.05
+"send a quick message",camel-case,"sendAQuickMessage",Yes,3.81
+"eat a red apple",camel-case,"eatARedApple",Yes,3.88
+"scan the printed document",camel-case,"scanThePrintedDocument",Yes,4.15
+"watch a new movie",camel-case,"watchANewMovie",Yes,3.87
